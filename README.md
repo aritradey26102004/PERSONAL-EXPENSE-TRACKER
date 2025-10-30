@@ -48,6 +48,38 @@ Delete any expense using the ❌ Delete button.
 
 All data stays saved even if you refresh (thanks to localStorage).
 
+
+🧭 How to Use This App
+
+Open the App
+Launch index.html — you’ll see a clean expense tracker interface.
+
+Add a New Expense
+
+In the input fields, enter an expense name (like “Lunch” or “Books”).
+
+Enter the amount in rupees (₹).
+
+Click the “Add Expense” button.
+
+View Your Expenses
+
+Each added expense appears in a list below.
+
+The total amount automatically updates at the bottom.
+
+Delete an Expense
+
+Click the red “Delete” button next to any expense to remove it instantly.
+
+The total recalculates automatically.
+
+Automatic Saving
+
+Your expenses are stored locally using localStorage.
+
+Closing or refreshing the browser won’t delete your data.
+
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
