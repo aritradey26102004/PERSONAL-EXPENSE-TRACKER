@@ -52,8 +52,8 @@ All data stays saved even if you refresh (thanks to localStorage).
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](<img width="642" height="220" alt="Screenshot 2025-10-30 235929" src="https://github.com/user-attachments/assets/2249026a-bf2d-4e25-82e4-65381f649ff9" />
-)
+![Home Page](screenshots/homepage.png)
+
 
 ### ➕ Adding an Expense
 ![Add Expense](screenshots/add-expense.png)
