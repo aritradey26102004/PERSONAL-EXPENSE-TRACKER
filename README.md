@@ -62,3 +62,12 @@ Here are some features to  make this project even better:
 ☁️ Cloud sync using Firebase
 
 📱 Responsive mobile layout
+
+🧑‍💻 Author
+
+Aritra Dey
+📫 GitHub Profile
+
+📜 License
+This project is licensed under the MIT License — you’re free to use, modify, and share it.
+
