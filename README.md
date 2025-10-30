@@ -52,7 +52,7 @@ All data stays saved even if you refresh (thanks to localStorage).
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](homepage.png.png)
 
 
 ### ➕ Adding an Expense
