@@ -56,7 +56,7 @@ All data stays saved even if you refresh (thanks to localStorage).
 
 
 ### ➕ Adding an Expense
-![Add Expense](screenshots/add-expense.png)
+![Add Expense](add-expense.png.png)
 
 ### ❌ Deleting an Expense
 ![Delete Expense](screenshots/delete-expense.png)
