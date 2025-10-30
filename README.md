@@ -36,49 +36,49 @@ A simple and elegant **Expense Tracker Web App** built using **HTML, CSS, and Ja
 
 
 
-🧠 How It Works
+🧠 How It Works:
 
-Enter an expense name and amount.
+o Enter an expense name and amount.
 
-Click “Add Expense” — the item appears in the list.
+o  Click “Add Expense” — the item appears in the list.
 
-The total updates automatically.
+o  The total updates automatically.
 
-Delete any expense using the ❌ Delete button.
+o  Delete any expense using the ❌ Delete button.
 
-All data stays saved even if you refresh (thanks to localStorage).
+o  All data stays saved even if you refresh (thanks to localStorage).
 
 
-🧭 How to Use This App
+🧭 How to Use This App:
 
-Open the App
-Launch index.html — you’ll see a clean expense tracker interface.
+1.Open the App
+2.Launch index.html — you’ll see a clean expense tracker interface.
 
-Add a New Expense
+3.Add a New Expense
 
 In the input fields, enter an expense name (like “Lunch” or “Books”).
 
-Enter the amount in rupees (₹).
+4.Enter the amount in rupees (₹).
 
-Click the “Add Expense” button.
+5.Click the “Add Expense” button.
 
-View Your Expenses
+# View Your Expenses
 
-Each added expense appears in a list below.
+o Each added expense appears in a list below.
 
-The total amount automatically updates at the bottom.
+o The total amount automatically updates at the bottom.
 
-Delete an Expense
+o Delete an Expense
 
-Click the red “Delete” button next to any expense to remove it instantly.
+o Click the red “Delete” button next to any expense to remove it instantly.
 
-The total recalculates automatically.
+0 The total recalculates automatically.
 
-Automatic Saving
+# Automatic Saving
 
-Your expenses are stored locally using localStorage.
+o Your expenses are stored locally using localStorage.
 
-Closing or refreshing the browser won’t delete your data.
+o Closing or refreshing the browser won’t delete your data.
 
 ## 🖼️ Screenshots
 
