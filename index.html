@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>College Expense Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎓 College Expense Tracker</h1>
+    
+    <div class="expense-form">
+      <input type="text" id="expense-name" placeholder="Expense name" />
+      <input type="number" id="expense-amount" placeholder="Amount (₹)" />
+      <button id="add-expense">Add Expense</button>
+    </div>
+
+    <div class="expense-list" id="expense-list"></div>
+
+    <div class="total">
+      <h2>Total: ₹<span id="total-amount">0</span></h2>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
