@@ -65,18 +65,22 @@ All data stays saved even if you refresh (thanks to localStorage).
 
 Here are some features to  make this project even better:
 
-📊 Category filter (Food, Books, Travel, etc.)
+🧩 Future Enhancements
 
-📅 Add expense date and monthly summaries
+📊 Category Filters — Separate expenses by category (Food, Travel, Books, etc.)
 
-📈 Visual charts using Chart.js
+📅 Date & Month Summary — Track spending patterns over time
 
-☁️ Cloud sync using Firebase
+📈 Visual Reports — Display expense charts using Chart.js
 
-📱 Responsive mobile layout
+☁️ Cloud Sync — Store data securely using Firebase or Supabase
+
+📱 Mobile Responsive Design — Seamless usage on phones
+
+🤖 AI Expense Insights — Use AI to analyze your spending habits and suggest saving tips or monthly budget goals automatically
+
 
 🧑‍💻 Author
-
 Aritra Dey
 📫 GitHub Profile
 
