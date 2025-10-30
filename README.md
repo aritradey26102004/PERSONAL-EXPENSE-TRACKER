@@ -51,16 +51,16 @@ o  All data stays saved even if you refresh (thanks to localStorage).
 
 🧭 How to Use This App:
 
-1.Open the App
-2.Launch index.html — you’ll see a clean expense tracker interface.
+1.  Open the App
+2. Launch index.html — you’ll see a clean expense tracker interface.
 
-3.Add a New Expense
+3. Add a New Expense
 
-In the input fields, enter an expense name (like “Lunch” or “Books”).
+##  In the input fields, enter an expense name (like “Lunch” or “Books”).
 
-4.Enter the amount in rupees (₹).
+4. Enter the amount in rupees (₹).
 
-5.Click the “Add Expense” button.
+5. Click the “Add Expense” button.
 
 # View Your Expenses
 
