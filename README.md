@@ -61,11 +61,9 @@ All data stays saved even if you refresh (thanks to localStorage).
 ![Delete Expense](delete-expense.png.png)
 
 
-🧩 Future Enhancements
 
+🧩 Future Enhancements
 Here are some features to  make this project even better:
-
-🧩 Future Enhancements
 
 📊 Category Filters — Separate expenses by category (Food, Travel, Books, etc.)
 
