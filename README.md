@@ -49,6 +49,18 @@ Delete any expense using the ❌ Delete button.
 
 All data stays saved even if you refresh (thanks to localStorage).
 
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
+
+### ➕ Adding an Expense
+![Add Expense](screenshots/add-expense.png)
+
+### ❌ Deleting an Expense
+![Delete Expense](screenshots/delete-expense.png)
+
+
 🧩 Future Enhancements
 
 Here are some features to  make this project even better:
