@@ -14,7 +14,7 @@ A simple and elegant **Expense Tracker Web App** built using **HTML, CSS, and Ja
 - 💰 View total expense in real time  
 - 💾 Data stored locally using `localStorage`  
 - 🧱 Minimal, square-card design with clean UI  
-- 🧑‍🎓 Perfect for beginners learning frontend web development  
+  
 
 ---
 
