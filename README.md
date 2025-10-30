@@ -20,7 +20,8 @@ A simple and elegant **Expense Tracker Web App** built using **HTML, CSS, and Ja
 
 ## 🖼️ Project Preview
 
-![Expense Tracker Screenshot](screenshot.png)  
+![Expense Tracker Screenshot](<img width="778" height="318" alt="screenshot png" src="https://github.com/user-attachments/assets/6052d534-b52d-4a5d-a1b4-98a53c4635a9" />
+)  
 
 
 ---
