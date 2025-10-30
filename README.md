@@ -35,18 +35,7 @@ A simple and elegant **Expense Tracker Web App** built using **HTML, CSS, and Ja
 | **JavaScript (ES6)** | App logic and interactivity |
 | **LocalStorage** | Storing expenses persistently |
 
----
-Navigate into the project directory:
 
-cd college-expense-tracker
-
-
-Open the project:
-
-Double-click index.html
-
-or open it with Live Server in VS Code
-## 🗂️ Folder Structure
 
 🧠 How It Works
 
@@ -62,7 +51,7 @@ All data stays saved even if you refresh (thanks to localStorage).
 
 🧩 Future Enhancements
 
-Here are some features that could make this project even better:
+Here are some features to  make this project even better:
 
 📊 Category filter (Food, Books, Travel, etc.)
 
