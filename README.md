@@ -89,7 +89,7 @@ o Closing or refreshing the browser won’t delete your data.
 ![Add Expense](addexpenses_live.png)
 
 ### ❌ Deleting an Expense
-![Delete Expense](deleteexpenses_live.png)
+![Delete Expense](delete expenses_live.png)
 
 
 
