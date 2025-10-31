@@ -82,14 +82,14 @@ o Closing or refreshing the browser won’t delete your data.
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](homepage.png.png)
+![Home Page](demo_live.png)
 
 
 ### ➕ Adding an Expense
-![Add Expense](add-expense.png.png)
+![Add Expense](addexpenses_live.png)
 
 ### ❌ Deleting an Expense
-![Delete Expense](delete-expense.png.png)
+![Delete Expense](deleteexpenses_live.png)
 
 
 
