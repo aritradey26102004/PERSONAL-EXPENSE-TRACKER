@@ -6,7 +6,7 @@ const totalAmount = document.getElementById("total-amount");
 
 let expenses = JSON.parse(localStorage.getItem("expenses")) || [];
 
-// Render Expenses
+// Render all expenses
 function renderExpenses() {
   expenseList.innerHTML = "";
   let total = 0;
@@ -27,13 +27,13 @@ function renderExpenses() {
   localStorage.setItem("expenses", JSON.stringify(expenses));
 }
 
-// Add Expense
+// Add a new expense
 addExpenseBtn.addEventListener("click", () => {
   const name = expenseName.value.trim();
   const amount = expenseAmount.value.trim();
 
   if (name === "" || amount === "" || amount <= 0) {
-    alert("Please enter valid expense details!");
+    alert("Please enter a valid expense name and amount.");
     return;
   }
 
@@ -43,11 +43,11 @@ addExpenseBtn.addEventListener("click", () => {
   renderExpenses();
 });
 
-// Delete Expense
+// Delete expense
 function deleteExpense(index) {
   expenses.splice(index, 1);
   renderExpenses();
 }
 
-// Initial render
+// Initial load
 renderExpenses();
