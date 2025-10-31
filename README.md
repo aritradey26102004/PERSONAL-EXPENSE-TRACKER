@@ -52,7 +52,7 @@ o  All data stays saved even if you refresh (thanks to localStorage).
 🧭 How to Use This App:
 
 1.  Extract the zip file or open with GitHub Desktop
-2. Launch index.html — you’ll see a clean expense tracker interface(for zip file) / Through GitHub Desktop open this and select the option "Open in Visual Studio Code", then in visual code click on index.html file and click on go live(you have to install the live server extension in Vs Code) in the bottom of the screen to run this on live server.
+2. Launch index.html — you’ll see a clean expense tracker interface(for zip file) / Through GitHub Desktop open this and select the option "Open in Visual Studio Code", then in visual code click on index.html file and click on go live(you have to install the live server extension in Vs Code) in the bottom right  of the screen to run this on live server.
 3. Add a New Expense
 
 ##  In the input fields, enter an expense name (like “Lunch” or “Books”).
