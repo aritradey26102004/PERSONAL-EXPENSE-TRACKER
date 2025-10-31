@@ -51,9 +51,8 @@ o  All data stays saved even if you refresh (thanks to localStorage).
 
 🧭 How to Use This App:
 
-1.  Open the App
+1.  Extract the zip file
 2. Launch index.html — you’ll see a clean expense tracker interface.
-
 3. Add a New Expense
 
 ##  In the input fields, enter an expense name (like “Lunch” or “Books”).
